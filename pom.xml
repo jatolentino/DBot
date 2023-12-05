@@ -3,7 +3,7 @@
     <groupId>com.example.chat</groupId>
     <artifactId>vaadin-chat</artifactId>
     <name>Vaadin chat</name>
-    <version>1.0-SNAPSHOT</version>
+    <version></version>
     <packaging>jar</packaging>
 
     <properties>
